@@ -128,7 +128,7 @@ python benchmarks\plot_results.py
 
 Machine: Windows 10, Intel Core i7-6700HQ (4 physical cores, 8 logical processors),
 16 GB RAM, Python 3.12.2, Microsoft MPI 10.1.12498.52,
-mpi4py / NumPy / SciPy versions: **<fill in from the version command>**.
+mpi4py 4.1.2, NumPy 2.5.5, SciPy 1.18.1.
 All processes run on this one laptop, so there is no real network communication.
 
 | Algorithm | Vertices | Edges | Procs | Median time (ms) | Speedup | Efficiency | Sequential (ms) |
